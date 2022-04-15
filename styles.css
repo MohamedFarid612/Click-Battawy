@@ -1,0 +1,26 @@
+
+
+.page{
+
+background-color: #F6F54D;
+
+}
+
+.click{
+text-align: center;
+padding-top: 3rem;
+font-size: 6rem;
+font-family: 'Square Peg', cursive;
+}
+.click2{
+text-align: center;
+padding-top: 3rem;
+font-size: 1rem;
+font-family: 'Square Peg', cursive;
+}
+
+.photo{
+  border-radius: 30%;
+  height: 20rem;
+  width: 20rem;
+}
